@@ -1,0 +1,2 @@
+# jsInit
+Basic JS practise
