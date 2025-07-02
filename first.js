@@ -78,3 +78,19 @@
 //     user_num = prompt("You have entered the wrong guess, Enter the your guess again:");
 // }
 // console.log("Congratulations you've guessed the correct number");
+
+
+// let str="Hello";
+// console.log(str);
+// console.log(str.length);
+// console.log(str[2]);
+
+const profile = {
+    profileName : "Shradha",
+    posts : 195,
+    followers : 595000,
+    following : 4,
+};
+
+let specialString = `This is ${profile.profileName}'s profile with ${profile.posts} posts.`;
+console.log(specialString);
